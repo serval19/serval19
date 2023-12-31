@@ -2,7 +2,7 @@
 ![mona-whisper](https://giffiles.alphacoders.com/206/206730.gif)
 
 <h1 align="center">Hello friend. </h1>
-<h1 align="center">This is my Github profile. </h1> 
+<h1 align="center">This is my Github profile </h1> 
 
 
 <p align="center">   <strong><a href="https://www.instagram.com/_serval._/">Instagram</a></strong> | <strong><a href="https://twitter.com/diwa_04">X</a></strong>
