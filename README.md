@@ -1,5 +1,5 @@
 # Diwa
-![mona-whisper](https://user-images.githubusercontent.com/64751167/95435221-f0266500-096f-11eb-8070-57f6721b1857.gif)
+![mona-whisper](https://giffiles.alphacoders.com/206/206730.gif)
 
 <h1 align="center">Hello, friend ;) </h1>
 <h1 align="center">This is my Github profile. </h1> 
