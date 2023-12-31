@@ -1,7 +1,7 @@
 # Diwa Tomy
 ![mona-whisper](https://giffiles.alphacoders.com/206/206730.gif)
 
-<h1 align="center">Hello, friend ;) </h1>
+<h1 align="center">Hello friend. </h1>
 <h1 align="center">This is my Github profile. </h1> 
 
 
