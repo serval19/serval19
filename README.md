@@ -1,4 +1,4 @@
-# Diwa
+# Diwa Tomy
 ![mona-whisper](https://giffiles.alphacoders.com/206/206730.gif)
 
 <h1 align="center">Hello, friend ;) </h1>
