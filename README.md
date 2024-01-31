@@ -1,7 +1,7 @@
 <h1>Diwa</h1>
 Hi.Welcome to my profile. 
 
-Currently pursuing my Bachelor's at College of Engineering, Trivandrum.
+Currently pursuing Bachelor's at College of Engineering, Trivandrum.
 
 
 <h2 align="center">Skills :</h2>
