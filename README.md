@@ -13,8 +13,6 @@ Currently pursuing Bachelor's at College of Engineering, Trivandrum.
 <h2 align="center">Technology Stack: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,bash,linux,mysql,windows,github,c,cpp,gitlab,vscode,html,css,javascript" />
-     
-    
+    <img src="https://skillicons.dev/icons?i=git,python,vim,bash,linux,vscode,html,github,java,javascript,c,cpp,css,mongodb,node&perline=6" />
   </a>
 </p>
