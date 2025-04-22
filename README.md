@@ -18,10 +18,7 @@ Currently pursuing Bachelor's at College of Engineering, Trivandrum.
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/_s3rval_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavpranj" height="30" width="40" /></a>
 
-<a href="https://leetcode.com/u/serval19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pranj_/" height="30" width="40" /></a>
-</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serval19&show_icons=true&locale=en&layout=compact" alt="diwatomy" /></p>
 
