@@ -16,8 +16,7 @@ Currently pursuing Bachelor's at College of Engineering, Trivandrum.
     <img src="https://skillicons.dev/icons?i=git,python,vim,bash,linux,vscode,html,github,java,javascript,c,cpp,css,mongodb,nodejs,figma,expressjs,gitlab&perline=6" />
   </a>
 </p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serval19&show_icons=true&locale=en&layout=compact" alt="diwatomy" /></p>
