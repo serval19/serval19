@@ -19,10 +19,10 @@ Currently pursuing Bachelor's at College of Engineering, Trivandrum.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diwatomy" target="_blank"><img align="center"
-  src="assets/linked-in-alt.svg"      alt="Jess" height="30" width="40" /></a>
+  src="assets/linked-in-alt.svg"      alt="Diwa" height="30" width="40" /></a>
 <a href="https://twitter.com/_s3rval_" target="_blank"><img align="center"
       src="assets/twitter.svg"
-      alt="i_am_jezz" height="30" width="40"/></a>
+      alt="serval19" height="30" width="40"/></a>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serval19&show_icons=true&locale=en&layout=compact" alt="diwatomy" /></p>
 
