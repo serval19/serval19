@@ -16,7 +16,7 @@ Currently pursuing Bachelor's at College of Engineering, Trivandrum.
     <img src="https://skillicons.dev/icons?i=git,python,vim,bash,linux,vscode,html,github,java,javascript,c,cpp,css,mongodb,nodejs,figma,expressjs,gitlab&perline=6" />
   </a>
 </p>
-
+<h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/diwatomy" target="_blank"><img align="center"
   src="assets/linked-in-alt.svg"      alt="Diwa" height="30" width="40" /></a>
