@@ -27,4 +27,4 @@ Currently pursuing Bachelor's at College of Engineering, Trivandrum.
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serval19&show_icons=true&locale=en" alt="diwatomy" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serval19&" alt="diwatomy" /></p>
+
