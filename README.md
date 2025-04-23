@@ -1,8 +1,4 @@
 
-<p>
-<h2 align = "center"> Diwa Tomy </h2>
-
-</p>
 
 
 Welcome to my profile. 
