@@ -1,6 +1,6 @@
 
 <p>
-<h2 align = "center"> Diwa Tomy - Serval </h2>
+<h2 align = "center"> Diwa Tomy </h2>
 
 </p>
 
